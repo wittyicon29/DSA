@@ -1,6 +1,7 @@
-package 30Days-DSA.java.Microsoft;
+//https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/
+//Brute Force Approach
 
-public class Solution {
+class Solution {
     public int findUnsortedSubarray(int[] nums) {
         int n = nums.length , begin = -1, end = -2, min = nums[n-1], max = nums[0];
         for(int i = 1; i < n; i++){
