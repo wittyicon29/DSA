@@ -22,12 +22,16 @@ class Solution {
         ListNode[] ans = new ListNode[k];
         cur = root;
         for (int i = 0; i < k; ++i) {
-            ListNode head = new ListNode(0), write = head;
-            for (int j = 0; j < width + (i < rem ? 1 : 0); ++j) {
-                write = write.next = new ListNode(cur.val);
+            ListNode head = cur;
+            for (int j = 0; j < width + (i < rem ? 1 : 0) - 1; ++j) {
                 if (cur != null) cur = cur.next;
             }
-            ans[i] = head.next;
+            if (cur != null) {
+                ListNode prev = cur;
+                cur = cur.next;
+                prev.next = null;
+            }
+            ans[i] = head;
         }
         return ans;
     }
