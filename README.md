@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/wittyicon29/DSA-Java-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/wittyicon29/DSA-Java-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/wittyicon29/DSA-Java-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wittyicon29/DSA-Java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/wittyicon29/DSA-Java-/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/wittyicon29/DSA-Java-/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/wittyicon29/DSA-Java-/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
