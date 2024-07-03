@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/wittyicon29/DSA-Java-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/wittyicon29/DSA-Java-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wittyicon29/DSA-Java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/wittyicon29/DSA-Java-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/wittyicon29/DSA-Java-/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/wittyicon29/DSA-Java-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/wittyicon29/DSA-Java-/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/wittyicon29/DSA-Java-/tree/master/0062-unique-paths) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/wittyicon29/DSA-Java-/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
