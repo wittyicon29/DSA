@@ -26,6 +26,6 @@ public:
                 nodeB = nodeB->next;
             }
         }
-        return nodeA;
+        return nodeB;
     }
 };
