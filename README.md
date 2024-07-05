@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/wittyicon29/DSA-Java-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/wittyicon29/DSA-Java-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/wittyicon29/DSA-Java-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/wittyicon29/DSA-Java-/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/wittyicon29/DSA-Java-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/wittyicon29/DSA-Java-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/wittyicon29/DSA-Java-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/wittyicon29/DSA-Java-/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/wittyicon29/DSA-Java-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/wittyicon29/DSA-Java-/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
