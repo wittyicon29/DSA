@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/wittyicon29/DSA-Java-/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/wittyicon29/DSA-Java-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/wittyicon29/DSA-Java-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/wittyicon29/DSA-Java-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/wittyicon29/DSA-Java-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/wittyicon29/DSA-Java-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/wittyicon29/DSA-Java-/tree/master/0040-combination-sum-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/wittyicon29/DSA-Java-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/wittyicon29/DSA-Java-/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/wittyicon29/DSA-Java-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Recursion
