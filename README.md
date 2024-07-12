@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/wittyicon29/DSA-Java-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/wittyicon29/DSA-Java-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/wittyicon29/DSA-Java-/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/wittyicon29/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/wittyicon29/DSA-Java-/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/wittyicon29/DSA-Java-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/wittyicon29/DSA/tree/master/0496-next-greater-element-i) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/wittyicon29/DSA-Java-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/wittyicon29/DSA/tree/master/0239-sliding-window-maximum) |
 ## Linked List
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/wittyicon29/DSA-Java-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/wittyicon29/DSA/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/wittyicon29/DSA-Java-/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/wittyicon29/DSA-Java-/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
@@ -215,9 +218,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/wittyicon29/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/wittyicon29/DSA/tree/master/0239-sliding-window-maximum) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/wittyicon29/DSA/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/wittyicon29/DSA/tree/master/0460-lfu-cache) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/wittyicon29/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
