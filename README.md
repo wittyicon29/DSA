@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/wittyicon29/DSA-Java-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/wittyicon29/DSA-Java-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/wittyicon29/DSA-Java-/tree/master/0347-top-k-frequent-elements) |
+| [0460-lfu-cache](https://github.com/wittyicon29/DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/wittyicon29/DSA/tree/master/0496-next-greater-element-i) |
 ## Counting
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/wittyicon29/DSA-Java-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/wittyicon29/DSA-Java-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/wittyicon29/DSA-Java-/tree/master/0237-delete-node-in-a-linked-list) |
+| [0460-lfu-cache](https://github.com/wittyicon29/DSA/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/wittyicon29/DSA-Java-/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/wittyicon29/DSA/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/wittyicon29/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/wittyicon29/DSA-Java-/tree/master/0295-find-median-from-data-stream) |
+| [0460-lfu-cache](https://github.com/wittyicon29/DSA/tree/master/0460-lfu-cache) |
 ## Data Stream
 |  |
 | ------- |
@@ -213,4 +216,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/wittyicon29/DSA/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/wittyicon29/DSA/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
