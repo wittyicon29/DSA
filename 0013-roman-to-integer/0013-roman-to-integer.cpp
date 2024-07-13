@@ -6,10 +6,9 @@ public:
         };
 
         int result = 0;
-
-        for(int i = 0; i < s.length(); i++) {
-            if(i > 0 && romanMap[s[i]] > romanMap[s[i - 1]]) {
-                result += romanMap[s[i]] - 2 * romanMap[s[i - 1]];
+        for (int i = 0; i < s.length(); i++) {
+            if (i > 0 && romanMap[s[i]] > romanMap[s[i-1]]) {
+                result += romanMap[s[i]] - 2 * romanMap[s[i-1]];
             } else {
                 result += romanMap[s[i]];
             }
