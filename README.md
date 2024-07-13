@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/wittyicon29/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/wittyicon29/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/wittyicon29/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/wittyicon29/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/wittyicon29/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/wittyicon29/DSA-Java-/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/wittyicon29/DSA-Java-/tree/master/0131-palindrome-partitioning) |
@@ -239,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/wittyicon29/DSA/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/wittyicon29/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
