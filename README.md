@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/wittyicon29/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/wittyicon29/DSA-Java-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/wittyicon29/DSA-Java-/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/wittyicon29/DSA-Java-/tree/master/0062-unique-paths) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/wittyicon29/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/wittyicon29/DSA-Java-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/wittyicon29/DSA-Java-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/wittyicon29/DSA-Java-/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/wittyicon29/DSA-Java-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/wittyicon29/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/wittyicon29/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/wittyicon29/DSA-Java-/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/wittyicon29/DSA-Java-/tree/master/0131-palindrome-partitioning) |
