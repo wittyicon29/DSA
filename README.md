@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/wittyicon29/DSA-Java-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/wittyicon29/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/wittyicon29/DSA-Java-/tree/master/0540-single-element-in-a-sorted-array) |
+| [2846-robot-collisions](https://github.com/wittyicon29/DSA/tree/master/2846-robot-collisions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/wittyicon29/DSA-Java-/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/wittyicon29/DSA-Java-/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/wittyicon29/DSA-Java-/tree/master/0347-top-k-frequent-elements) |
+| [2846-robot-collisions](https://github.com/wittyicon29/DSA/tree/master/2846-robot-collisions) |
 ## Math
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/wittyicon29/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/wittyicon29/DSA-Java-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/wittyicon29/DSA/tree/master/0496-next-greater-element-i) |
+| [2846-robot-collisions](https://github.com/wittyicon29/DSA/tree/master/2846-robot-collisions) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/wittyicon29/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/wittyicon29/DSA/tree/master/0686-repeated-string-match) |
+## Simulation
+|  |
+| ------- |
+| [2846-robot-collisions](https://github.com/wittyicon29/DSA/tree/master/2846-robot-collisions) |
 <!---LeetCode Topics End-->
