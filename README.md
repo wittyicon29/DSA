@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/wittyicon29/DSA-Java-/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/wittyicon29/DSA-Java-/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/wittyicon29/DSA-Java-/tree/master/0347-top-k-frequent-elements) |
+| [0726-number-of-atoms](https://github.com/wittyicon29/DSA/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/wittyicon29/DSA/tree/master/2846-robot-collisions) |
 ## Math
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/wittyicon29/DSA-Java-/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/wittyicon29/DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/wittyicon29/DSA/tree/master/0496-next-greater-element-i) |
+| [0726-number-of-atoms](https://github.com/wittyicon29/DSA/tree/master/0726-number-of-atoms) |
 ## Counting
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/wittyicon29/DSA/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/wittyicon29/DSA-Java-/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/wittyicon29/DSA/tree/master/0686-repeated-string-match) |
+| [0726-number-of-atoms](https://github.com/wittyicon29/DSA/tree/master/0726-number-of-atoms) |
 ## Sliding Window
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/wittyicon29/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/wittyicon29/DSA-Java-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/wittyicon29/DSA/tree/master/0496-next-greater-element-i) |
+| [0726-number-of-atoms](https://github.com/wittyicon29/DSA/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/wittyicon29/DSA/tree/master/2846-robot-collisions) |
 ## Monotonic Stack
 |  |
