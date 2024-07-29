@@ -12,22 +12,35 @@
 class Solution {
 public:
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        int index = 0;
-        return buildTreeHelper(preorder, index, std::numeric_limits<int>::min(), std::numeric_limits<int>::max());
-    }
-private:
-    TreeNode* buildTreeHelper(std::vector<int>& preorder, int& index, int minVal, int maxVal) {
-        // Base case: if we've processed all elements or the current value is out of bounds
-        if (index >= preorder.size() || preorder[index] < minVal || preorder[index] > maxVal) {
-            return nullptr;
+        if (preorder.empty()) return nullptr;
+
+        TreeNode* root = new TreeNode(preorder[0]);
+        std::stack<TreeNode*> stack;
+        stack.push(root);
+
+        for (int i = 1; i < preorder.size(); ++i) {
+            TreeNode* node = nullptr;
+
+            // While there's a stack and the current value is greater than the top of the stack
+            while (!stack.empty() && preorder[i] > stack.top()->val) {
+                node = stack.top();
+                stack.pop();
+            }
+
+            // Create a new node
+            TreeNode* newNode = new TreeNode(preorder[i]);
+
+            // If we found a node, it means the current value is its right child
+            if (node) {
+                node->right = newNode;
+            } else {
+                // Otherwise, it is the left child of the last node in the stack
+                stack.top()->left = newNode;
+            }
+
+            // Push the new node onto the stack
+            stack.push(newNode);
         }
-
-        // The current value is valid; create the node
-        TreeNode* root = new TreeNode(preorder[index++]);
-
-        // Recursively build the left and right subtrees
-        root->left = buildTreeHelper(preorder, index, minVal, root->val);
-        root->right = buildTreeHelper(preorder, index, root->val, maxVal);
 
         return root;
     }
