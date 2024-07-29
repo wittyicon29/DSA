@@ -18,14 +18,22 @@ public:
 
 class Solution {
 public:
+    void solve(Node* root){
+        if(root == nullptr)return;
+        if(root->left != nullptr){
+            root->left->next = root->right;
+        }
+        if(root->right != nullptr){
+            if(root->next != nullptr){
+                root->right->next = root->next->left;
+            }
+        }
+        solve(root->left);
+        solve(root->right);
+    }
     Node* connect(Node* root) {
-        if(root == NULL) return NULL;
-        if(root->left != NULL) root->left->next = root->right;
-        if(root->right != NULL && root->next != NULL) root->right->next = root->next->left;
-
-        connect(root->left);
-        connect(root->right);
-
-        return root;  
+        if(root == nullptr)return nullptr;
+        solve(root);
+        return root;
     }
 };
