@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/wittyicon29/DSA-Java-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/wittyicon29/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/wittyicon29/DSA-Java-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0787-sliding-puzzle](https://github.com/wittyicon29/DSA-Java-/tree/master/0787-sliding-puzzle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/wittyicon29/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/wittyicon29/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [2846-robot-collisions](https://github.com/wittyicon29/DSA/tree/master/2846-robot-collisions) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/wittyicon29/DSA-Java-/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/wittyicon29/DSA-Java-/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/wittyicon29/DSA-Java-/tree/master/0074-search-a-2d-matrix) |
+| [0787-sliding-puzzle](https://github.com/wittyicon29/DSA-Java-/tree/master/0787-sliding-puzzle) |
 ## Binary Search
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/wittyicon29/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/wittyicon29/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/wittyicon29/DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0787-sliding-puzzle](https://github.com/wittyicon29/DSA-Java-/tree/master/0787-sliding-puzzle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/wittyicon29/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
