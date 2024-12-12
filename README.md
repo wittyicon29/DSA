@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/wittyicon29/DSA-Java-/tree/master/0787-sliding-puzzle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/wittyicon29/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/wittyicon29/DSA/tree/master/1207-delete-nodes-and-return-forest) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/wittyicon29/DSA-Java-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2846-robot-collisions](https://github.com/wittyicon29/DSA/tree/master/2846-robot-collisions) |
 ## Divide and Conquer
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/wittyicon29/DSA/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/wittyicon29/DSA-Java-/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/wittyicon29/DSA-Java-/tree/master/0347-top-k-frequent-elements) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/wittyicon29/DSA-Java-/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/wittyicon29/DSA-Java-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2846-robot-collisions](https://github.com/wittyicon29/DSA/tree/master/2846-robot-collisions) |
 ## Tree
 |  |
