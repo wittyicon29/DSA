@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/wittyicon29/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/wittyicon29/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/wittyicon29/DSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/wittyicon29/DSA-Java-/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/wittyicon29/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/wittyicon29/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/wittyicon29/DSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/wittyicon29/DSA-Java-/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
