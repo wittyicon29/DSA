@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/wittyicon29/DSA-Java-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0787-sliding-puzzle](https://github.com/wittyicon29/DSA-Java-/tree/master/0787-sliding-puzzle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/wittyicon29/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1063-best-sightseeing-pair](https://github.com/wittyicon29/DSA-Java-/tree/master/1063-best-sightseeing-pair) |
 | [1207-delete-nodes-and-return-forest](https://github.com/wittyicon29/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/wittyicon29/DSA-Java-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/wittyicon29/DSA-Java-/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wittyicon29/DSA-Java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/wittyicon29/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/wittyicon29/DSA-Java-/tree/master/0131-palindrome-partitioning) |
+| [1063-best-sightseeing-pair](https://github.com/wittyicon29/DSA-Java-/tree/master/1063-best-sightseeing-pair) |
 ## Two Pointers
 |  |
 | ------- |
