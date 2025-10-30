@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/wittyicon29/DSA-Java-/tree/master/1063-best-sightseeing-pair) |
 | [1207-delete-nodes-and-return-forest](https://github.com/wittyicon29/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/wittyicon29/DSA-Java-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/wittyicon29/DSA-Java-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/wittyicon29/DSA-Java-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2846-robot-collisions](https://github.com/wittyicon29/DSA/tree/master/2846-robot-collisions) |
 ## Divide and Conquer
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/wittyicon29/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/wittyicon29/DSA-Java-/tree/master/0131-palindrome-partitioning) |
 | [1063-best-sightseeing-pair](https://github.com/wittyicon29/DSA-Java-/tree/master/1063-best-sightseeing-pair) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/wittyicon29/DSA-Java-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/wittyicon29/DSA/tree/master/0726-number-of-atoms) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/wittyicon29/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/wittyicon29/DSA-Java-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/wittyicon29/DSA-Java-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2846-robot-collisions](https://github.com/wittyicon29/DSA/tree/master/2846-robot-collisions) |
 ## Monotonic Stack
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/wittyicon29/DSA/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/wittyicon29/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/wittyicon29/DSA-Java-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/wittyicon29/DSA-Java-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -437,4 +441,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/wittyicon29/DSA-Java-/tree/master/0011-container-with-most-water) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/wittyicon29/DSA-Java-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
