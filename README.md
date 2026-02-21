@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/wittyicon29/DSA-Java-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/wittyicon29/DSA-Java-/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/wittyicon29/DSA-Java-/tree/master/0062-unique-paths) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/wittyicon29/DSA-Java-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Matrix
 |  |
 | ------- |
@@ -442,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/wittyicon29/DSA-Java-/tree/master/0011-container-with-most-water) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/wittyicon29/DSA-Java-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/wittyicon29/DSA-Java-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
